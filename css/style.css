@@ -21,24 +21,36 @@ body {
 
 .bg-red-h1 {
     background-color: red;
+    color: white;
+    font-family: fantasy;
+    font-size: x-large;
+    text-align: center;
+    letter-spacing: 1cm;
+    /* padding-top: 80px;
+    padding-bottom: 80px; */
+    /* padding: 50px 10px 90px 100px; */
+    padding: 50px;
+    border: 10px solid black;
+    border-radius: 20px;
+    border-style: dashed;
+    margin: 50px 70px 100px 50px;
 }
 
-.bg-brown-h1 {
+/* .bg-brown-h1 {
     background-color: burlywood;
 }
+ */
 
 
-
-#pg-backgrounds {
+/* #pg-backgrounds {
     background-color: bisque;
 }
 
-#pg-background{
+#pg-background {
     background-color: aquamarine;
-}
+} */
 
-*{
-    background-color: black;
+* {
     margin: 0;
     padding: 0;
 }
