@@ -26,3 +26,19 @@ body {
 .bg-brown-h1 {
     background-color: burlywood;
 }
+
+
+
+#pg-backgrounds {
+    background-color: bisque;
+}
+
+#pg-background{
+    background-color: aquamarine;
+}
+
+*{
+    background-color: black;
+    margin: 0;
+    padding: 0;
+}
