@@ -1,5 +1,28 @@
-h1 {
+/* h1 {
     background-color: rgb(107, 192, 33);
     color: white;
     text-align: center;
+}
+
+p {
+    background-color: blue;
+}
+
+body {
+    background-color: aqua;
+} */
+.bg-green-h1 {
+    background-color: greenyellow;
+}
+
+.bg-yellow-h1 {
+    background-color: yellow;
+}
+
+.bg-red-h1 {
+    background-color: red;
+}
+
+.bg-brown-h1 {
+    background-color: burlywood;
 }
